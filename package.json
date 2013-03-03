@@ -1,0 +1,16 @@
+{
+  "name": "echidna-deploy",
+  "version": "0.0.0",
+  "description": "deployment scripts for echidna",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Ricky Ng-Adam <rngadam@gmail.com>",
+  "license": "Proprietary",
+  "dependencies": {
+    "githubhook": "~0.4.0"
+  }
+}
